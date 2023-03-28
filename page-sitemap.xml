@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://en.pemikatwalet.com/service/</loc>
-		<lastmod>2023-03-28T02:32:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://en.pemikatwalet.com/wp-content/uploads/2023/03/Parfum-walet-njay-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://en.pemikatwalet.com/blog-swiftlet-house/</loc>
 		<lastmod>2023-03-26T07:15:31+00:00</lastmod>
 		<image:image>
@@ -46,7 +39,7 @@
 			<image:loc>https://en.pemikatwalet.com/wp-content/uploads/2023/03/gambar-2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://en.pemikatwalet.com/wp-content/uploads/2023/03/gambar-3.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/gambar-3.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://en.pemikatwalet.com/wp-content/uploads/2023/03/gambar-4.png</image:loc>
@@ -69,6 +62,13 @@
 	<url>
 		<loc>https://en.pemikatwalet.com/testimonial/</loc>
 		<lastmod>2023-03-26T07:10:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://en.pemikatwalet.com/service/</loc>
+		<lastmod>2023-03-26T07:09:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://en.pemikatwalet.com/wp-content/uploads/2023/03/Parfum-walet-njay-1.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://en.pemikatwalet.com/product/</loc>
